@@ -10,7 +10,7 @@
 
 int main(void)
 {
-    printf("----------Welcome to the beta game of \"SNAKE THE CONQUEROR - II\"----------\n\n");
+    printf("----------Welcome to the beta game of \"SNAKE THE CONQUEROR\"----------\n\n");
     printf("Rules of the game are\n\n");
     printf("1. You are controlling the snake in the game which is initially at the 1st position of a (%d X %d) grid.\n", BOUNDARY, BOUNDARY);
     printf("2. The snake is in static motion, and you have to control where it goes by the keys 8, 2, 4 and 6.\n");
